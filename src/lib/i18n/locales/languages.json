@@ -24,6 +24,10 @@
 		"title": "Chinese (Traditional)"
 	},
 	{
+		"code": "ru-RU",
+		"title": "Russian (Russia)"
+	},
+	{
 		"code": "zh-CN",
 		"title": "Chinese (Simplified)"
 	}
